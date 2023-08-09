@@ -1,0 +1,6 @@
+# Being an exercise, the url already contains a database with notes
+# If you want to use your own database, you can change the url
+# When u run ./run.sh, the url will be passed as an environment variable and create a .env file
+# But if you dont want to use the script, you can create .env file and add the url there
+
+DB_URL="mongodb+srv://ensolvers:ensolvers2023@notes.9xqw6xn.mongodb.net/?retryWrites=true&w=majority"
